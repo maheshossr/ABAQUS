@@ -18,8 +18,7 @@ double click on the batch file and look for abaqus.rpy file in the working direc
 sample input file is also attached in the GIT repository 
 "Sample_abaqus_input_file.inp"
 
-odb file is also attached for version convinence
-This project is executed on abaqus 2018 version 
+odb file is also attached for version convinence, This project is executed on abaqus 2018 version 
 
 Note:
 
