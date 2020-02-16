@@ -1,0 +1,1 @@
+abaqus viewer noGUI=Extract_nodal_displacement_results.py
